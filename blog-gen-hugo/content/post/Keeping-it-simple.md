@@ -6,9 +6,8 @@ tags = [
 ]
 date = "2020-03-19"
 categories = [
-    "yolo",
+    "yolo"
 ]
-menu = "main"
 +++
 
 This is the last time I am creating a new Hugo block. This is the last time I try to change themes.

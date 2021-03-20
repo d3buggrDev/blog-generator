@@ -24,11 +24,11 @@ jobs:
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
-      env:
-        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        EXTERNAL_REPOSITORY: d3buggrDev/d3buggrDev.github.io
-        PUBLISH_BRANCH: main
-        PUBLISH_DIR: blog-gen-hugo/public
       with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        external_repository: d3buggrDev/d3buggrDev.github.io
+        publish_branch: main
+        publish_dir: blog-gen-hugo/public
         emptyCommits: false
         commitMessage: ${{ github.event.head_commit.message }}
+        cname: d3buggr.dev

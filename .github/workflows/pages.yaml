@@ -4,6 +4,10 @@ on:
   push:
     branches:
     - main
+    
+defaults:
+  run:
+    working-directory: blog-gen-hugo
 
 jobs:
   build-deploy:
@@ -19,6 +23,7 @@ jobs:
         hugo-version: '0.79.0'
 
     - name: Build
+      working-directory: ./blog-gen-hugo
       run: hugo --minify
 
     - name: Deploy

@@ -2,4 +2,4 @@
 The place where blog gets generated from. The blog will be published to .github.io for showcase
 
 
-Hugo version : 0.79.0
+Hugo version : 0.81.0

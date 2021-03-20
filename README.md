@@ -9,3 +9,4 @@ sidebar - #222526
 
 posts - #2b2e30
 
+#181a1b

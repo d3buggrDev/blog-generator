@@ -29,6 +29,5 @@ jobs:
         external_repository: d3buggrDev/d3buggrDev.github.io
         publish_branch: main
         publish_dir: blog-gen-hugo/public
-        emptyCommits: true
-        commitMessage: ${{ github.event.head_commit.message }}
+        allow_empty_commit: true
         cname: d3buggr.dev

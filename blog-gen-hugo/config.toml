@@ -1,16 +1,35 @@
 baseurl = "https://d3buggr.dev"
 title = "d3buggr"
-copyright = "Copyright 2020"
+copyright = "Copyright 2022. All Rights Reserved"
 canonifyurls = true
-paginate = 5
+paginate = 10
 
 googleAnalytics = ""
 
-theme = "strange-case"
+theme = "blackburn"
 enableEmoji = true
 
-[params]
-	colorScheme = "scheme-darkbrown"
-	DateFormat = "2 Jan 2006"
-	description = "thoughts compiled!"
-	sidebarFreeText = "Solving problems, optimizing things, trying out different stuff related to computers. Let's try out something unique that we both never knew!"
+[[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+
+[[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 3
+    identifier = "about"
+    url = "/about/"
+
+# [[menu.main]]
+# 	name = "Github"
+# 	pre = "<i class='fa-brands fa-github fa-fw'></i>"
+# 	weight = 3
+# 	identifier = "github"
+# 	url = "https://github.com/d3buggrDev/"
+
+[social]
+	twitter="d3buggr"
+	github="d3buggrDev"

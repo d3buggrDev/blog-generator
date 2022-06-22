@@ -1,0 +1,6 @@
+[submodule "blog-gen-hugo/themes/hyde"]
+	path = blog-gen-hugo/themes/hyde
+	url = https://github.com/spf13/hyde.git
+[submodule "blog-gen-hugo/themes/blackburn"]
+	path = blog-gen-hugo/themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git

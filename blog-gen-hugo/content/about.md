@@ -3,5 +3,6 @@ title = "About"
 menu = "main"
 +++
 
+On the path to truth. 
 
-Twitch.tv/d3buggr
+Anon cause I don't want trouble.

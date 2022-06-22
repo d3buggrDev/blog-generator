@@ -2,5 +2,5 @@
 	path = blog-gen-hugo/themes/hyde
 	url = https://github.com/spf13/hyde.git
 [submodule "blog-gen-hugo/themes/blackburn"]
-	path = blog-gen-hugo/blog-gen-hugo/themes/blackburn
-	url = https://github.com/d3buggrDev/blackburn.git
+	path = blog-gen-hugo/themes/blackburn
+	url = git@github.com:d3buggrDev/blackburn.git

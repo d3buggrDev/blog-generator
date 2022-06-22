@@ -3,4 +3,4 @@
 	url = https://github.com/spf13/hyde.git
 [submodule "blog-gen-hugo/themes/blackburn"]
 	path = blog-gen-hugo/themes/blackburn
-	url = https://github.com/yoshiharuyamashita/blackburn.git
+	url = https://github.com/d3buggrDev/blackburn.git

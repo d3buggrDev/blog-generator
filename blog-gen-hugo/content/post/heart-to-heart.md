@@ -1,6 +1,6 @@
 +++
 title="Let's talk."
-date=2022-07-02T23:01:01+5:30
+date="2022-07-02"
 +++
 
 Let's talk people.

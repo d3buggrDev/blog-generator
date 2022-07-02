@@ -3,7 +3,7 @@ title="Let's talk."
 date="2022-07-02"
 +++
 
-Let's talk people.
+Let's talk.
 
 I have been suffering and this is my outlet
 

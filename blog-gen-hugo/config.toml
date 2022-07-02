@@ -3,7 +3,7 @@ title = "d3buggr"
 description = "on the path of truth"
 copyright = "Copyright 2022. All Rights Reserved"
 canonifyurls = true
-paginate = 10
+paginate = 100
 
 googleAnalytics = "G-GDJLZ3DYVX"
 
